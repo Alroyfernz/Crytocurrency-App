@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Uchen&display=swap');
+.heading{
+  color: rgb(209, 143, 63);
+  font-size: 68px;
+  font-family: 'Uchen', serif;
+  text-align: center;
+}
+.editButton{
+ border: 1px solid red;
+
+}
+li{
+  color: red;
+}
