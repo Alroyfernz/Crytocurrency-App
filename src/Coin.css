@@ -47,6 +47,9 @@
   width: 100%;
   padding-left: 16px;
   margin-right: 220px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .red {
   color: red;
