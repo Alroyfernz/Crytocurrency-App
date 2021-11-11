@@ -13,7 +13,6 @@ function App() {
       )
       .then((res) => {
         setCoins(res.data);
-        console.log(coins);
       })
       .catch((error) => console.log(error));
   }, [coins]);
